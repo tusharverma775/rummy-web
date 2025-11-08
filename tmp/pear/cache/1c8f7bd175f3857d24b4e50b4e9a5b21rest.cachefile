@@ -1,0 +1,7 @@
+a:8:{s:7:"attribs";a:4:{s:5:"xmlns";s:36:"http://pear.php.net/dtd/rest.package";s:9:"xmlns:xsi";s:41:"http://www.w3.org/2001/XMLSchema-instance";s:11:"xmlns:xlink";s:28:"http://www.w3.org/1999/xlink";s:18:"xsi:schemaLocation";s:80:"http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd";}s:1:"n";s:21:"PHP_DocBlockGenerator";s:1:"c";s:12:"pear.php.net";s:2:"ca";a:2:{s:7:"attribs";a:1:{s:10:"xlink:href";s:11:"/rest/c/PHP";}s:8:"_content";s:3:"PHP";}s:1:"l";s:15:"The BSD License";s:1:"s";s:18:"DocBlock Generator";s:1:"d";s:622:"Creates the file Page block and the DocBlocks for includes, global variables, functions, parameters, classes, constants, properties and methods.
+Accepts parameters to set the category name, the package name, the author's name and email, the license, the package link, etc...
+Attempts to guess variable and parameters types.
+Aligns the DocBlock tags.
+Tags are not updated or added to existing DocBlocks but only realigned.
+The package can be run by: calling the &quot;PHP_DocBlockGenerator&quot; class, or by running the &quot;docblockgen&quot; DOS/Unix command.
+Fully tested with phpUnit. Code coverage test close to 100%.";s:1:"r";a:1:{s:7:"attribs";a:1:{s:10:"xlink:href";s:29:"/rest/r/php_docblockgenerator";}}}

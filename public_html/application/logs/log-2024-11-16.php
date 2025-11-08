@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-11-16 15:32:35 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:32:35 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:32:35 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:32:51 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:32:51 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:32:51 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:33:05 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:33:05 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:33:05 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:33:17 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:33:17 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:33:18 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:33:39 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:33:39 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:33:40 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:33:51 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:33:51 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 15:33:51 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 16:59:00 --> 404 Page Not Found: Adstxt/index
+ERROR - 2024-11-16 16:59:01 --> 404 Page Not Found: App_adstxt/index
+ERROR - 2024-11-16 16:59:02 --> 404 Page Not Found: Sellersjson/index
+ERROR - 2024-11-16 23:15:09 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 23:15:12 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 23:16:02 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 23:16:03 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 23:16:53 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 23:16:53 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 23:17:43 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 23:17:44 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 23:17:44 --> 404 Page Not Found: Rummyavstechnologycoin/assets
+ERROR - 2024-11-16 23:18:30 --> 404 Page Not Found: Rummyavstechnologycoin/assets

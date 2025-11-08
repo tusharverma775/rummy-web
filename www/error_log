@@ -1,0 +1,39 @@
+[13-Sep-2024 14:08:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'atsgagxz_ats'@'localhost' to database 'atsgagxz_ats' in /home2/atsgagxz/public_html/connect.php:7
+Stack trace:
+#0 /home2/atsgagxz/public_html/connect.php(7): mysqli->__construct('localhost', 'atsgagxz_ats', Object(SensitiveParameterValue), 'atsgagxz_ats')
+#1 {main}
+  thrown in /home2/atsgagxz/public_html/connect.php on line 7
+[13-Sep-2024 14:08:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'atsgagxz_ats'@'localhost' to database 'atsgagxz_ats' in /home2/atsgagxz/public_html/connect.php:7
+Stack trace:
+#0 /home2/atsgagxz/public_html/connect.php(7): mysqli->__construct('localhost', 'atsgagxz_ats', Object(SensitiveParameterValue), 'atsgagxz_ats')
+#1 {main}
+  thrown in /home2/atsgagxz/public_html/connect.php on line 7
+[13-Sep-2024 14:09:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'atsgagxz_ats'@'localhost' to database 'atsgagxz_ats' in /home2/atsgagxz/public_html/connect.php:7
+Stack trace:
+#0 /home2/atsgagxz/public_html/connect.php(7): mysqli->__construct('localhost', 'atsgagxz_ats', Object(SensitiveParameterValue), 'atsgagxz_ats')
+#1 {main}
+  thrown in /home2/atsgagxz/public_html/connect.php on line 7
+[13-Sep-2024 14:09:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'atsgagxz_ats'@'localhost' to database 'atsgagxz_ats' in /home2/atsgagxz/public_html/connect.php:7
+Stack trace:
+#0 /home2/atsgagxz/public_html/connect.php(7): mysqli->__construct('localhost', 'atsgagxz_ats', Object(SensitiveParameterValue), 'atsgagxz_ats')
+#1 {main}
+  thrown in /home2/atsgagxz/public_html/connect.php on line 7
+[13-Sep-2024 14:09:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'atsgagxz_ats'@'localhost' to database 'atsgagxz_ats' in /home2/atsgagxz/public_html/connect.php:7
+Stack trace:
+#0 /home2/atsgagxz/public_html/connect.php(7): mysqli->__construct('localhost', 'atsgagxz_ats', Object(SensitiveParameterValue), 'atsgagxz_ats')
+#1 {main}
+  thrown in /home2/atsgagxz/public_html/connect.php on line 7
+[13-Sep-2024 14:09:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'atsgagxz_ats'@'localhost' to database 'atsgagxz_ats' in /home2/atsgagxz/public_html/connect.php:7
+Stack trace:
+#0 /home2/atsgagxz/public_html/connect.php(7): mysqli->__construct('localhost', 'atsgagxz_ats', Object(SensitiveParameterValue), 'atsgagxz_ats')
+#1 {main}
+  thrown in /home2/atsgagxz/public_html/connect.php on line 7
+[13-Sep-2024 14:09:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'atsgagxz_ats'@'localhost' to database 'atsgagxz_ats' in /home2/atsgagxz/public_html/connect.php:7
+Stack trace:
+#0 /home2/atsgagxz/public_html/connect.php(7): mysqli->__construct('localhost', 'atsgagxz_ats', Object(SensitiveParameterValue), 'atsgagxz_ats')
+#1 {main}
+  thrown in /home2/atsgagxz/public_html/connect.php on line 7
+[13-Sep-2024 15:05:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/atsgagxz/public_html/system/core/CodeIgniter.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/atsgagxz/public_html/index.php:318
+Stack trace:
+#0 {main}
+  thrown in /home2/atsgagxz/public_html/index.php on line 318

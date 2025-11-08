@@ -1,0 +1,8 @@
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g id="menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect x="0" y="0" width="24" height="24"/>
+        <rect fill="#FFF" x="2" y="4" width="20" height="2"/>
+        <rect fill="#FFF" x="2" y="11" width="20" height="2"/>
+        <rect fill="#FFF" x="2" y="18" width="20" height="2"/>
+    </g>
+</svg>

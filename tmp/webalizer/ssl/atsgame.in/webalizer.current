@@ -1,0 +1,916 @@
+# Webalizer V2.23-08 Incremental Data - 10/19/2024 18:13:48
+2024 10 19 18 13 48
+1086 876 134 82 26 71 141933391 360 150 0
+14 67 162 1 19
+3 3 37253 3 3 3
+24 20 958806 5 9 6
+28 24 617701 6 15 5
+53 42 1550908 10 14 8
+14 12 301969 4 3 3
+8 6 258993 4 7 6
+5 4 53986 5 5 5
+179 149 8481953 20 40 17
+32 30 15325638 5 10 6
+29 25 758653 7 7 5
+25 20 305489 6 12 4
+202 174 18034853 26 51 22
+42 28 1233916 12 15 12
+51 27 128791 18 45 19
+25 11 91060 9 19 10
+1 0 228 1 1 1
+0 0 0 0 0 0
+170 149 32581531 5 59 6
+195 152 61211663 14 45 12
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+105 71 23555372 29
+6 5 70499 6
+4 4 225927 3
+5 5 434647 3
+24 22 14505865 6
+16 13 462703 12
+29 22 2148165 13
+20 13 306766 7
+30 20 398185 14
+40 32 1216035 10
+57 44 21344590 24
+22 15 302749 11
+0 0 0 0
+6 5 49569 6
+10 6 264707 8
+4 4 16956 4
+10 3 14302 8
+206 174 17229032 58
+228 192 22332101 50
+67 52 3485288 19
+83 77 16711227 26
+100 85 16196551 34
+4 4 418140 2
+10 8 244015 7
+0
+0
+0
+876
+0
+0
+0
+0
+0
+3
+0
+0
+40
+0
+21
+0
+0
+11
+0
+0
+2
+118
+0
+1
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+# -urls- 
+/uploads/banner/20220823_1524_6304a3eca8114.jpg
+0 35 8319045105058736492 1774113 0 0
+/assets/website/images/whats-app.html
+0 2 3688501099900253744 1386 0 0
+/assets/plugins/datatables/buttons.bootstrap4.min.js
+0 1 32204208 469 0 0
+/assets/css/bootstrap.min.css
+0 1 32200752 35138 0 0
+/faq
+0 2 3472606489866284341 18008 1 0
+/assets/website/images/install-unknown-sources.jpg
+0 2 32146864 257668 0 0
+/assets/plugins/datatables/buttons.print.min.js
+0 1 32204896 852 0 0
+/assets/css/icons.css
+0 1 32201376 52480 0 0
+/contact-us
+0 1 32210688 3094 0 0
+/assets/js/custom/validation.js
+0 1 32205872 1349 0 0
+/assets/plugins/datatables/responsive.bootstrap4.min.css
+0 1 0 1186 0 0
+/assets/plugins/datatables/dataTables.bootstrap4.min.js
+0 1 32203920 1109 0 0
+/assets/plugins/datatables/responsive.bootstrap4.min.js
+0 1 32205328 610 0 0
+/assets/website/images/twitter.svg
+0 43 0 23493 0 0
+/assets/website/images/icon.png
+0 2 32210464 417440 0 0
+/assets/website/js/lazyload.min.js
+0 43 0 107953 0 0
+/assets/fonts/materialdesignicons-webfont.woff
+0 1 32202208 230656 0 0
+/assets/website/images/reddit.html
+0 2 0 1386 0 0
+/uploads/images/20220823_1519_6304a29d1c43b.jpg
+0 8 0 21119704 0 0
+/assets/website/images/facebook.svg
+0 43 0 9635 0 0
+/cgi-sys/suspendedpage.cgi
+0 34 0 145656 7 3
+/backend/dashboard/admin
+0 3 32202352 11799 0 0
+/assets/plugins/datatables/pdfmake.min.js
+0 1 32204480 123284 0 0
+/assets/website/images/googleplus.html
+0 2 0 1386 0 0
+/assets/js/app.js
+0 1 32201728 889 0 0
+/assets/images/money-bag.png
+0 1 32205744 18312 0 0
+/assets/plugins/datatables/jquery.dataTables.min.js
+0 1 32203776 35486 0 0
+/uploads/images/20220823_1519_6304a29d16542.jpg
+0 10 0 22020740 0 0
+/favicon.ico
+0 19 0 3965680 0 0
+/assets/website/images/google-play-protect.png
+0 2 0 228580 0 0
+/assets/fonts/themify.woff
+0 1 32206000 56108 0 0
+/assets/website/js/jsshare.js
+0 45 0 81915 0 0
+/assets/js/toastr.min.js
+0 1 32200512 2294 0 0
+/download
+0 7 0 31282 0 0
+/terms-conditions
+0 3 0 16259 0 0
+/assets/website/css/style.css
+0 42 0 307560 0 0
+/assets/plugins/datatables/vfs_fonts.js
+0 1 32204624 326828 0 0
+/assets/js/bootstrap.bundle.min.js
+0 1 32201248 32086 0 0
+/security
+0 2 0 17304 0 0
+/assets/fonts/ionicons.woff2
+0 1 32206128 50556 0 0
+/home/download
+0 1 0 11764 0 0
+/assets/js/jquery.slimscroll.js
+0 1 32201488 4432 0 0
+/assets/images/sp_bg.png
+0 1 32201840 696388 0 0
+/assets/images/coin.png
+0 1 32203280 37212 0 0
+/assets/website/images/share-more.html
+0 2 0 1386 0 0
+/assets/website/images/email.html
+0 2 0 1386 0 0
+/assets/js/jquery.validate.min.js
+0 1 32203648 9688 0 0
+/assets/website/images/vkontakte.svg
+0 43 0 40303 0 0
+/assets/plugins/datatables/buttons.bootstrap4.min.css
+0 1 32202864 1085 0 0
+/uploads/images/20220823_1519_6304a29d203a4.jpg
+0 6 0 34286826 0 0
+/assets/css/toastr.css
+0 1 32201008 3795 0 0
+/assets/plugins/datatables/dataTables.bootstrap4.min.css
+0 1 0 1145 0 0
+/assets/images/customer.png
+0 1 32203520 15846 0 0
+/assets/js/jquery.min.js
+0 1 32201120 38055 0 0
+/assets/images/artisan.png
+0 1 32203392 24780 0 0
+/assets/website/images/download.svg
+0 43 0 29069 0 0
+/assets/plugins/datatables/jszip.min.js
+0 1 32204352 30351 0 0
+/home
+0 2 0 8478 1 0
+/assets/plugins/datatables/buttons.html5.min.js
+0 1 32204752 4653 0 0
+/assets/website/images/menu.svg
+0 21 0 8322 0 0
+/assets/plugins/datatables/dataTables.buttons.min.js
+0 1 32204064 6934 0 0
+/assets/website/js/jquery-3.4.1.min.js
+0 42 0 1916600 0 0
+/assets/js/waves.min.js
+0 1 32201616 2662 0 0
+/assets/css/metismenu.min.css
+0 1 32200288 693 0 0
+/
+0 228 0 1271927 139 33
+/privacy-policy
+0 3 0 16137 0 0
+/uploads/logo/20230102_0847_63b29a18f2a83.png
+0 81 0 16075360 0 0
+/assets/fonts/materialdesignicons-webfont.woff2
+0 3 32201968 224311 0 0
+/assets/js/metisMenu.min.js
+0 1 32200880 1881 0 0
+/uploads/images/20220823_1519_6304a29d189aa.jpg
+0 8 0 13361181 0 0
+/about-us
+0 4 0 19101 0 0
+/assets/plugins/datatables/datatables.init.js
+0 1 32205472 177 0 0
+/assets/plugins/datatables/buttons.colVis.min.js
+0 1 32205040 950 0 0
+/assets/images/bu.png
+0 1 32203168 208720 0 0
+/assets/js/bootstrap-datepicker.min.js
+0 1 32205616 12838 0 0
+/assets/css/app.min.css
+0 1 32202752 20111 0 0
+/refund-policy
+0 2 0 13439 0 0
+/assets/css/style.css
+0 1 32200640 17872 0 0
+/uploads/images/20220823_1519_6304a29d14831.jpg
+0 13 0 21892000 0 0
+/assets/plugins/datatables/dataTables.responsive.min.js
+0 1 32205184 5331 0 0
+/backend
+0 1 32200080 1622 0 0
+/assets/website/images/pinterest.html
+0 2 0 1386 0 0
+# End Of Table - urls
+# -sites- (monthly)
+unused-space.coop.net
+0 16 14 1664536 5 1728891324
+/cgi-sys/suspendedpage.cgi
+ec2-13-36-175-100.eu-west-3.compute.amazonaws.com
+0 22 17 2222511 1 1728417472
+/
+abts-north-dynamic-140.52.161.122.airtelbroadband.in
+0 94 59 23083492 3 1729296493
+/contact-us
+unn-154-47-17-56.datapacket.com
+0 15 13 527897 1 1727898148
+/
+179.61.228.126
+0 1 0 566 0 0
+-
+scanner-05.ch1.censys-scanner.com
+0 3 3 413901 1 1728013980
+/
+165.22.73.81
+0 1 1 12176 1 1728761808
+/
+ec2-44-205-29-107.compute-1.amazonaws.com
+0 10 5 21299 3 1728040532
+/
+80.255.10.201
+0 15 13 527897 1 1728753112
+/
+40.113.118.83
+0 4 4 16956 4 1728618298
+/
+24.199.83.192
+0 2 2 205181 1 1728694602
+/
+ns1000614.ip-51-81-46.us
+0 1 1 37691 1 1729003019
+/
+47.237.70.162
+0 4 2 206894 1 1728722164
+/
+5.133.192.128
+0 4 2 8924 1 1728941811
+/cgi-sys/suspendedpage.cgi
+20.235.158.127
+0 11 9 264716 0 0
+-
+5.133.192.146
+0 2 2 205181 1 1728258627
+/
+104.166.80.85
+0 2 1 4462 1 1728929880
+/cgi-sys/suspendedpage.cgi
+198.235.24.208
+0 1 1 16507 1 1727757978
+/
+ec2-184-73-103-70.compute-1.amazonaws.com
+0 11 9 264716 0 0
+-
+152.32.211.69
+0 2 2 202847 0 0
+-
+104.248.228.86
+0 1 1 4239 1 1728785049
+/
+216.238.119.45.vultrusercontent.com
+0 1 1 4239 1 1728753855
+/
+89.208.29.10
+0 1 1 4334 1 1728927108
+/cgi-sys/suspendedpage.cgi
+106.161.65.206
+0 35 25 3266102 1 1728754545
+/
+156.255.18.29
+0 12 12 325823 1 1728411875
+/
+27.59.78.254
+0 26 24 14502075 1 1729296045
+/
+192.158.226.20
+0 26 21 2473127 1 1728411974
+/download
+134.209.151.173
+0 1 1 4239 1 1728865128
+/
+78.24.183.58.megaegg.ne.jp
+0 4 4 8478 2 1728778625
+/
+64.227.75.250
+0 3 1 4824 1 1728951730
+/cgi-sys/suspendedpage.cgi
+unn-143-244-41-133.datapacket.com
+0 2 1 209286 0 0
+-
+111.118.135.188
+0 3 1 4405 1 1728843674
+/
+104.211.181.215
+0 10 8 63774 0 0
+-
+unn-149-88-16-235.datapacket.com
+0 15 13 527897 1 1728064412
+/
+20.229.51.198
+0 1 1 4239 1 1727964462
+/
+166-0-205-221.dsl.bell.ca
+0 14 12 326955 1 1729361164
+/
+ec2-54-158-189-65.compute-1.amazonaws.com
+0 13 13 326261 1 1728753395
+/
+internettl.org
+0 2 2 33014 2 1728105223
+/
+static.212.104.181.135.clients.your-server.de
+0 1 1 4239 1 1728411877
+/
+167.94.146.54
+0 3 3 413901 1 1728450814
+/
+ec2-35-90-11-179.us-west-2.compute.amazonaws.com
+0 1 1 4239 1 1728775153
+/
+kd106155001245.au-net.ne.jp
+0 6 3 13701 1 1728928918
+/cgi-sys/suspendedpage.cgi
+crawl-149-56-150-76.dataproviderbot.com
+0 10 8 63774 0 0
+-
+205.210.31.49
+0 1 0 232 1 1729215172
+/
+sp1-73-20-30.nnk01.spmode.ne.jp
+0 2 2 4239 1 1728416945
+/
+ns1010346.ip-135-148-100.us
+0 1 1 16507 1 1728298213
+/
+165.154.187.159
+0 6 3 419881 1 1728800395
+/
+ec2-44-227-127-2.us-west-2.compute.amazonaws.com
+0 6 2 9384 1 1729009961
+/cgi-sys/suspendedpage.cgi
+212.143.94.254
+0 38 32 871201 2 1728753294
+/
+137.184.219.53
+0 1 1 12178 1 1728825594
+/
+95.164.100.249
+0 1 1 4334 1 1728926855
+/cgi-sys/suspendedpage.cgi
+137.184.82.206
+0 2 0 104 1 1728976427
+/
+unn-149-88-16-231.datapacket.com
+0 14 12 326955 1 1728411808
+/
+cerebro-sdc-prod-17.kaspersky-labs.com
+0 2 2 8478 2 1729317877
+/
+ec2-107-23-43-198.compute-1.amazonaws.com
+0 2 2 409662 0 0
+-
+sp49-96-236-175.msc.spmode.ne.jp
+0 1 0 0 1 1728928917
+/
+ec2-54-88-179-33.compute-1.amazonaws.com
+0 3 3 49521 3 1728195273
+/
+68.183.245.101
+0 6 2 419704 0 0
+-
+45.254.254.94
+0 4 3 406689 1 1728754034
+/
+110.184.202.235
+0 1 1 4239 1 1728536214
+/
+167.88.60.251
+0 1 1 200942 0 0
+-
+205.210.31.161
+0 1 1 16507 1 1728008215
+/
+kd106155005246.au-net.ne.jp
+0 2 2 4239 1 1728412333
+/
+ec2-3-254-193-235.eu-west-1.compute.amazonaws.com
+0 1 0 226 1 1728306210
+/
+13.95.133.245
+0 2 2 8478 2 1728575349
+/
+101.36.102.26
+0 6 3 419881 1 1728799694
+/
+198.240.69.252
+0 19 19 527122 1 1728753351
+/assets/website/images/share-more.html
+103.119.167.167
+0 118 108 17716869 1 1729285406
+/
+205.169.39.0
+0 10 8 63774 0 0
+-
+146.70.117.101
+0 4 2 9134 1 1728926787
+/cgi-sys/suspendedpage.cgi
+165.154.119.19
+0 6 4 408952 1 1729330951
+/
+205.210.31.77
+0 1 1 16507 1 1728047714
+/
+205.210.31.163
+0 1 0 228 1 1729094852
+/
+ec2-3-208-116-168.compute-1.amazonaws.com
+0 8 4 17008 4 1729334888
+/
+ec2-54-209-165-177.compute-1.amazonaws.com
+0 5 2 9085 2 1728905714
+/cgi-sys/suspendedpage.cgi
+vps-5aabd550.vps.ovh.ca
+0 3 3 406123 1 1728754034
+/
+kd106154140166.au-net.ne.jp
+0 3 3 8478 1 1728755302
+/
+47.237.125.242
+0 1 1 200942 0 0
+-
+nld-net-ip.as51430.net
+0 12 12 325823 1 1728753988
+/
+205.169.39.22
+0 12 8 64906 0 0
+-
+165.154.120.223
+0 1 0 0 1 1729324007
+/
+152.59.69.253
+0 2 1 209286 1 1729346720
+-
+static-68-235-45-9.cust.tzulo.com
+0 1 0 566 0 0
+-
+46.101.179.118
+0 2 0 104 1 1728809335
+/
+h-217.114.218.26.keyweb.de
+0 1 1 4239 1 1728682566
+/
+36.99.136.141
+0 9 9 63080 0 0
+-
+138.197.15.28
+0 2 2 205181 1 1728526917
+/
+kd106154150092.au-net.ne.jp
+0 3 1 4567 1 1728929521
+/cgi-sys/suspendedpage.cgi
+ec2-3-87-120-210.compute-1.amazonaws.com
+0 11 9 264716 0 0
+-
+20.105.137.134
+0 2 2 8478 2 1728661876
+/
+198.235.24.5
+0 1 1 16507 1 1727747473
+/
+ns1016175.ip-15-204-182.us
+0 2 2 8478 1 1729321154
+/
+sp49-105-100-249.tck01.spmode.ne.jp
+0 1 1 0 1 1728755301
+/
+199.244.88.227
+0 10 8 27473 1 1728623139
+-
+planetlab24.gino-research.net.in.tum.de
+0 1 0 583 0 0
+-
+ec2-52-206-220-10.compute-1.amazonaws.com
+0 3 2 8901 1 1728933475
+/cgi-sys/suspendedpage.cgi
+hostedby.i3d.net
+0 2 2 8478 2 1727892873
+/
+198.235.24.171
+0 1 1 16507 1 1728284249
+/
+106.219.164.183
+0 6 3 13386 2 1729010280
+/cgi-sys/suspendedpage.cgi
+185.41.240.25
+0 2 1 4567 1 1729003476
+/cgi-sys/suspendedpage.cgi
+ec2-54-161-149-138.compute-1.amazonaws.com
+0 2 2 409662 0 0
+-
+vps-au-bne-binarylane
+0 1 0 566 0 0
+-
+5.180.180.158
+0 2 1 4567 1 1728926871
+/cgi-sys/suspendedpage.cgi
+49.44.84.134
+0 12 12 325823 1 1729285163
+/
+80.255.7.118
+0 4 2 8932 1 1728935481
+/cgi-sys/suspendedpage.cgi
+64.227.155.185
+0 1 1 12182 1 1728935259
+/
+tor-exit-anonymizer.appliedprivacy.net
+0 2 0 268 1 1728412019
+/
+crawl-144-217-135-189.dataproviderbot.com
+0 12 10 127309 1 1727945391
+/home/download
+159-148-54-238.bestvpsone.com
+0 3 2 8901 1 1728926861
+/cgi-sys/suspendedpage.cgi
+167.94.146.63
+0 3 3 413901 1 1728024917
+/
+rnd.group-ib.com
+0 150 134 40063058 8 1729361558
+/
+ec2-3-89-96-132.compute-1.amazonaws.com
+0 13 13 326261 1 1728411910
+/
+205.210.31.225
+0 1 1 16507 1 1728696528
+/
+ec2-44-222-20-176.compute-1.amazonaws.com
+0 7 3 12769 4 1728731296
+/
+159.89.35.143
+0 1 1 4239 1 1727952618
+/
+ec2-13-57-196-160.us-west-1.compute.amazonaws.com
+0 21 20 736408 1 1728753557
+/assets/website/images/share-more.html
+143.110.190.128
+0 2 0 104 1 1728807508
+/
+198.235.24.166
+0 1 1 16507 1 1728270493
+/
+198.235.24.22
+0 1 1 16507 1 1728804870
+/
+95.164.100.148
+0 1 1 4239 1 1728411869
+/
+146.190.113.238
+0 1 1 12180 1 1728997918
+/
+104.166.80.213
+0 2 1 4462 1 1728903115
+/cgi-sys/suspendedpage.cgi
+106.219.161.109
+0 29 27 21225555 1 1729332967
+/
+80.255.10.199
+0 15 13 527897 1 1728759406
+/
+205.210.31.236
+0 1 0 228 1 1729269128
+/
+104.166.80.60
+0 2 1 4462 1 1728974085
+/cgi-sys/suspendedpage.cgi
+104.166.80.36
+0 1 1 4239 1 1728859721
+/
+152.59.69.135
+0 2 1 4462 1 1729022272
+/cgi-sys/suspendedpage.cgi
+ec2-35-171-144-152.compute-1.amazonaws.com
+0 2 2 33014 2 1729336129
+/
+pa49-185-200-68.pa.vic.optusnet.com.au
+0 3 3 406123 1 1728754034
+/
+198.235.24.164
+0 1 1 16507 1 1728371639
+/
+ec2-34-222-190-238.us-west-2.compute.amazonaws.com
+0 1 1 16507 1 1728862900
+/
+ec2-54-211-228-155.compute-1.amazonaws.com
+0 2 2 409662 0 0
+-
+kd106155001019.au-net.ne.jp
+0 2 2 4239 1 1728412774
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+abts-north-dynamic-140.52.161.122.airtelbroadband.in
+0 56 28 8545113 1 1729296493
+/contact-us
+152.32.211.69
+0 2 2 202847 0 0
+-
+27.59.78.254
+0 26 24 14502075 1 1729296045
+/
+166-0-205-221.dsl.bell.ca
+0 14 12 326955 1 1729361164
+/
+cerebro-sdc-prod-17.kaspersky-labs.com
+0 1 1 4239 1 1729317877
+/
+165.154.119.19
+0 6 4 408952 1 1729330951
+/
+ec2-3-208-116-168.compute-1.amazonaws.com
+0 2 2 8478 1 1729334888
+/
+165.154.120.223
+0 1 0 0 1 1729324007
+/
+152.59.69.253
+0 2 1 209286 1 1729346720
+-
+ns1016175.ip-15-204-182.us
+0 2 2 8478 1 1729321154
+/
+rnd.group-ib.com
+0 51 47 15343516 1 1729361558
+/
+106.219.161.109
+0 29 27 21225555 1 1729332967
+/
+ec2-35-171-144-152.compute-1.amazonaws.com
+0 1 1 16507 1 1729336129
+/
+ec2-54-211-228-155.compute-1.amazonaws.com
+0 2 2 409662 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://autodiscover.atsgame.in/
+0 3
+http://atsgame.in/
+0 20
+https://www.google.ie/
+0 2
+https://atsgame.in/
+0 309
+https://atsgame.in/backend
+0 14
+https://www.atsgame.in/favicon.ico
+0 1
+https://atsgame.in/assets/website/css/style.css
+0 190
+https://atsgame.in/game.apk
+0 4
+https://atsgame.in/admin
+0 1
+https://www.google.com/
+0 1
+- (Direct Request)
+0 318
+https://atsgame.in/cgi-sys/suspendedpage.cgi
+0 8
+https://atsgame.in/download
+0 8
+https://mail.atsgame.in
+0 1
+https://atsgame.in/terms-conditions
+0 1
+https://mail.atsgame.in/cgi-sys/suspendedpage.cgi
+0 4
+https://atsgame.in/assets/css/icons.css
+0 6
+https://mail.atsgame.in/
+0 100
+https://atsgame.in/backend/dashboard/admin
+0 25
+https://atsgame.in/privacy-policy
+0 3
+https://atsgame.in/about-us
+0 2
+https://atsgame.in/lander
+0 2
+https://www.atsgame.in/
+0 21
+https://atsgame.in/home
+0 10
+http://www.atsgame.in/
+0 29
+https://www.atsgame.in/cgi-sys/suspendedpage.cgi
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.79 Mobile Safari/537.
+0 26
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+0 9
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/587.44 (KHTML, like Gecko) Chrome/71.0.1408 Safari/537.36
+0 1
+Mozilla/5.0 (Android 10; Mobile; rv:109.0) Gecko/118.0 Firefox/118.0
+0 4
+fasthttp
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; arm_64; Android 12; CPH2205) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.3.86.
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+0 19
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.99 Safari/537.36
+0 22
+Mozilla/5.0 (compatible; Dataprovider.com)
+0 22
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+0 30
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 8_1_1; Win64; x64) AppleWebKit/562.44 (KHTML, like Gecko) Chrome/85.0.567 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E14
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+0 26
+Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.79 M
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/118.1 Mobile/15E148 S
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/122.0.0.0 Safari/537.36
+0 36
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 25
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.2
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+0 20
+Go-http-client/1.1
+0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/124.0.0.0 Safari/537.36
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+0 15
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E14
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+0 124
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.84 Safari/535.11 SE 2.X MetaSr 1.0
+0 1
+Go-http-client/2.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.65 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/127.0.6533.119 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 9_2) AppleWebKit/555.51 (KHTML, like Gecko) Chrome/92.0.1648 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Mobile/15E14
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.143 Safari/537.36
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.204
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+0 5
+WhatsApp/2.23.20.0
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/120.0
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E14
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+0 12
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/83.0.4103.88 Mobile/15E
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0
+0 3
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+0 42
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 13_3_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+0 5
+curl/7.61.1
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+0 21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+0 76
+Mozilla/5.0 \\(Windows NT 10.0\\; Win64\\; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/100.0.4896.60 Safari/537.
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_5_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E14
+0 51
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/118.0.5993.69 Mobile/15
+0 4
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+0 183
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+0 96
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/109.0.5414.46 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36
+0 20
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.36 Safari/537.36
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:125.0) Gecko/20100101 Firefox/125.0
+0 3
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+0 8
+curl/8.6.0
+0 9
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

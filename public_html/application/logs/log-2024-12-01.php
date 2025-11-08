@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-12-01 17:07:54 --> 404 Page Not Found: api/Env/index
+ERROR - 2024-12-01 17:07:54 --> 404 Page Not Found: Admin/.env
+ERROR - 2024-12-01 17:07:54 --> 404 Page Not Found: Config/.env
+ERROR - 2024-12-01 17:07:54 --> 404 Page Not Found: Public/.env
+ERROR - 2024-12-01 17:07:54 --> 404 Page Not Found: backend/Env/index
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: Drupal/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: Staging/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: Private/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: Laravel/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: Core/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: Services/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: System/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: api/V2/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: App/config
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: V1/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: Production/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: Server/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: App/env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: App/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: Environment/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: V2/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: Web/.env
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: Var/www
+ERROR - 2024-12-01 17:07:55 --> 404 Page Not Found: Wordpress/.env
+ERROR - 2024-12-01 17:07:56 --> 404 Page Not Found: Dev/.env
+ERROR - 2024-12-01 17:07:56 --> 404 Page Not Found: Html/.env
+ERROR - 2024-12-01 17:07:56 --> 404 Page Not Found: Src/.env
+ERROR - 2024-12-01 17:07:56 --> 404 Page Not Found: api/V1/.env

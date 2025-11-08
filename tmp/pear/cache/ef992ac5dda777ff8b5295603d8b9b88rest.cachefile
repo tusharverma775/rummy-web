@@ -1,0 +1,19 @@
+a:8:{s:7:"attribs";a:4:{s:5:"xmlns";s:36:"http://pear.php.net/dtd/rest.package";s:9:"xmlns:xsi";s:41:"http://www.w3.org/2001/XMLSchema-instance";s:11:"xmlns:xlink";s:28:"http://www.w3.org/1999/xlink";s:18:"xsi:schemaLocation";s:80:"http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd";}s:1:"n";s:19:"PHP_ParserGenerator";s:1:"c";s:12:"pear.php.net";s:2:"ca";a:2:{s:7:"attribs";a:1:{s:10:"xlink:href";s:11:"/rest/c/PHP";}s:8:"_content";s:3:"PHP";}s:1:"l";s:15:"New BSD License";s:1:"s";s:76:"translate grammar files in Lemon Parser Generator format into a PHP 5 parser";s:1:"d";s:875:"Translate a grammar file in the lemon parser generator format
+  into a PHP 5-based parser
+  
+  There are a few PHP-specific changes to the lemon parser generator.
+  
+  - %extra_argument is removed, as class constructor can be used to
+    pass in extra information
+  - %token_type and company are irrelevant in PHP, and so are removed
+  - %declare_class is added to define the parser class name and any
+    implements/extends information
+  - %include_class is added to allow insertion of extra class information
+    such as constants, a class constructor, etc.
+
+  Other changes make the parser more robust, and also make reporting
+  syntax errors simpler.  Detection of expected tokens eliminates some
+  problematic edge cases where an unexpected token could cause the parser
+  to simply accept input.
+  
+  Otherwise, the file format is identical to the Lemon parser generator";s:1:"r";a:1:{s:7:"attribs";a:1:{s:10:"xlink:href";s:27:"/rest/r/php_parsergenerator";}}}

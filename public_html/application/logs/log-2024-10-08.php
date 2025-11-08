@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-10-08 12:53:28 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 12:53:28 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 12:55:11 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 12:55:11 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 12:56:02 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 12:56:02 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 12:56:08 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 12:56:08 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 12:56:14 --> 404 Page Not Found: Gameapk/index
+ERROR - 2024-10-08 12:57:04 --> 404 Page Not Found: Gameapk/index
+ERROR - 2024-10-08 12:57:05 --> 404 Page Not Found: Gameapk/index
+ERROR - 2024-10-08 12:57:27 --> 404 Page Not Found: Gameapk/index
+ERROR - 2024-10-08 12:57:29 --> 404 Page Not Found: MTqMZRwxdgIkHTapk/index
+ERROR - 2024-10-08 12:57:35 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 12:57:35 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 12:57:43 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 12:57:43 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 12:58:00 --> 404 Page Not Found: Gameapk/index
+ERROR - 2024-10-08 13:04:45 --> 404 Page Not Found: Gameapk/index
+ERROR - 2024-10-08 14:27:45 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 14:27:45 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 14:27:52 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 14:27:52 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 14:27:56 --> 404 Page Not Found: Gameapk/index
+ERROR - 2024-10-08 15:32:04 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 15:32:04 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 23:16:55 --> 404 Page Not Found: Assets/website
+ERROR - 2024-10-08 23:16:55 --> 404 Page Not Found: Assets/website

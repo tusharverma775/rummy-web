@@ -1,0 +1,15 @@
+a:8:{s:7:"attribs";a:4:{s:5:"xmlns";s:36:"http://pear.php.net/dtd/rest.package";s:9:"xmlns:xsi";s:41:"http://www.w3.org/2001/XMLSchema-instance";s:11:"xmlns:xlink";s:28:"http://www.w3.org/1999/xlink";s:18:"xsi:schemaLocation";s:80:"http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd";}s:1:"n";s:20:"HTML_Template_PHPTAL";s:1:"c";s:12:"pear.php.net";s:2:"ca";a:2:{s:7:"attribs";a:1:{s:10:"xlink:href";s:12:"/rest/c/HTML";}s:8:"_content";s:4:"HTML";}s:1:"l";s:4:"LGPL";s:1:"s";s:81:"Templating engine for XHTML and HTML5 with XML syntax and protection against XSS.";s:1:"d";s:984:"Implementation of Zope's Template Attribute Language, which has clean, concise syntax that is compatible with XML tools (no custom ugly tags), and template source files can even be previewed in web browsers or opened in WYSIWYG editors.
+
+Templates are compiled to PHP and cached, giving great performance and taking advantage of PHP accelerators.
+
+PHPTAL by default ensures well-formed output and escapes XML-unsafe characters everywhere, which means that your pages can be completely safe against HTML-injection (XSS) without great effort.
+
+Additional features:
+ • fine-grained caching of output, 
+ • pre- and post- filters, 
+ • internationalization via gettext or custom backend, 
+ • creation of custom template attributes and expressions, 
+ • templates loaded from non-standard sources (e.g. database), 
+ • supports UTF-8 well, 
+ • is easy to integrate and redistribute with PHP frameworks and applications.
+ • object-oriented design, comprehensive unit test suite.";s:1:"r";a:1:{s:7:"attribs";a:1:{s:10:"xlink:href";s:28:"/rest/r/html_template_phptal";}}}
